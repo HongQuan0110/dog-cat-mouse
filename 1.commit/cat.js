@@ -2,4 +2,4 @@ function Cat() {
     this.stomach = []
 }
 
-module.exports = cat; 
+module.exports = cat;
