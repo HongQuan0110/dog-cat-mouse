@@ -21,3 +21,7 @@ A <--- B
 git checkout A
 git merge B
 master <--- feature/dog-class
+
+// git reset --soft (staging)
+// git reset --mixed (working directory)
+// git reset --hard
