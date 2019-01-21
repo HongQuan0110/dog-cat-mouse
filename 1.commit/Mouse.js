@@ -9,4 +9,4 @@ Mouse.prototype.die = function(){
     this.isDead = true;
 }
 
-module.exports = mouse;
+module.exports = Mouse;
