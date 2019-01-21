@@ -27,3 +27,5 @@ master <--- feature/dog-class
 // git reset --hard <to-commmit>
 
 // git revert <commmit>
+
+// .gitignore
