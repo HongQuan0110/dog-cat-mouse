@@ -38,3 +38,13 @@ master <--- feature/dog-class
 // ^^^ no recommend (~./git-credentials)
 // git config --global credential.helper "cache --timeout=18000"
 // google "gnome-keyring" "git ssh"
+
+// git clone
+// git pull
+
+// pull request
+// 1. git checkout -b <feature_branch>
+// 2. git push origin <branch>
+// 3. create pull request on Github
+// 4. review code
+// 5. merge to master
